@@ -8,6 +8,8 @@ Neracode (Next Generation Code) is a student-led programming community at SMKN 1
 ## Technologies We Use
 - Front End: HTML, CSS, JavaScript, React, Laravel
 - Backend: Python, PHP, Laravel
+- Database: MySQL
 - Version Control: Git & GitHub
-
+  
+## Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nera.code?igsh=MXNvbTdxN3I1OWJ5eg==)
