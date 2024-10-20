@@ -6,7 +6,7 @@ Neracode (Next Generation Code) is a student-led programming community at SMKN 1
 - Mentorship: Receive guidance from senior members to support your coding journey.
 
 ## Technologies We Use
-- Web Development: HTML, CSS, JavaScript, React, Laravel
+- Front End: HTML, CSS, JavaScript, React, Laravel
 - Backend: Python, PHP, Laravel
 - Version Control: Git & GitHub
 
